@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://SpeedProg.github.io/sitemap.xml 
