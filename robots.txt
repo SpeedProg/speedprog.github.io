@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://SpeedProg.github.io/sitemap.xml 
+Sitemap: http://speedprog.github.io/sitemap.xml 
