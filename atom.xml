@@ -4,7 +4,7 @@
   <title><![CDATA[SpeedProg's Release Blog]]></title>
   <link href="http://speedprog.github.io/atom.xml" rel="self"/>
   <link href="http://speedprog.github.io/"/>
-  <updated>2014-09-21T03:17:30+02:00</updated>
+  <updated>2014-09-21T03:23:11+02:00</updated>
   <id>http://speedprog.github.io/</id>
   <author>
     <name><![CDATA[SpeedProg]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[LanTools 1.0.0-RC2 Testing]]></title>
+    <link href="http://speedprog.github.io/blog/2014/09/21/lantools-1-dot-0-0-rc2-testing/"/>
+    <updated>2014-09-21T03:21:07+02:00</updated>
+    <id>http://speedprog.github.io/blog/2014/09/21/lantools-1-dot-0-0-rc2-testing</id>
+    <content type="html"><![CDATA[<p>Test of v1.0.0 Release Candidate 2 is starting today. Installers and simple file bundles can be downloaded from the <a href="https://github.com/SpeedProg/lantools/releases/tag/v1.0.0-RC2" target="_blank">Github Release for 1.0.0-RC2</a></p>
+
+]]></content>
+  </entry>
   
 </feed>
