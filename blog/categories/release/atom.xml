@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[SpeedProg's Release Blog]]></title>
-  <link href="http://speedprog.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Release | SpeedProg's Release Blog]]></title>
+  <link href="http://speedprog.github.io/blog/categories/release/atom.xml" rel="self"/>
   <link href="http://speedprog.github.io/"/>
   <updated>2014-09-22T20:35:29+02:00</updated>
   <id>http://speedprog.github.io/</id>
